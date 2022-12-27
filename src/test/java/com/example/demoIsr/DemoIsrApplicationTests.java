@@ -1,0 +1,13 @@
+package com.example.demoIsr;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class DemoIsrApplicationTests {
+
+	@Test
+	void contextLoads() {
+	}
+
+}
