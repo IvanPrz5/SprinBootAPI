@@ -38,18 +38,8 @@ public class Isr2022Controller {
         return isr2022Repository.findById(id);
     }
 
-    @GetMapping("año/{año}")
-    public List<Isr2022Entity> año(@PathVariable("año") Integer año){
-        return isr2022Service.getAño(año);
+    @GetMapping("año/{año}/{periodo}")
+    public List<Isr2022Entity> año(@PathVariable("año") Integer año, @PathVariable("periodo") String periodo){
+        return isr2022Service.getAñoAndPeriodo(año, periodo);
     }
-
-    @GetMapping("periodo/{periodo}")
-    public List<Isr2022Entity> periodo(@PathVariable("periodo") String periodo){
-        return isr2022Service.getPeriodo(periodo);
-    }
-
-    /* @PostMapping
-    public void insertar(@RequestBody Isr2022Entity isr) {
-        isr2022Repository.save(isr);
-    } */
 }

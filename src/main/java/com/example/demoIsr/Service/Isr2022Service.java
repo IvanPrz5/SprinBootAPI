@@ -13,10 +13,7 @@ import com.example.demoIsr.Repository.Isr2022Repository;
 public class Isr2022Service {
     @Autowired
     Isr2022Repository isr2022Repository;
-    public List<Isr2022Entity> getAño(Integer anio) {
-        return isr2022Repository.findByAño(anio);
-    }
-    public List<Isr2022Entity> getPeriodo(String periodo){
-        return isr2022Repository.findByPeriodo(periodo);
+    public List<Isr2022Entity> getAñoAndPeriodo(Integer anio, String periodo) {
+        return isr2022Repository.findByAñoAndPeriodo(anio, periodo);
     }
 }

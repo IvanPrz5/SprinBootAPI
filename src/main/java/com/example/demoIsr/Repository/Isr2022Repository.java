@@ -10,6 +10,6 @@ import org.springframework.data.jpa.repository.JpaRepository;
 
 @Repository
 public interface Isr2022Repository extends JpaRepository<Isr2022Entity, Integer> {
-    public List<Isr2022Entity> findByAño(Integer año);
-    public List<Isr2022Entity> findByPeriodo(String periodo);
+    public List<Isr2022Entity> findByAñoAndPeriodo(Integer año, String periodo);
+    /* public List<Isr2022Entity> findByPeriodo(String periodo); */
 }
