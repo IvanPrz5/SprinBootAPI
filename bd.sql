@@ -1,3 +1,76 @@
+insert into isr2022  (lim_inf, lim_sup, cuota, porcentaje, periodo, año) values (0.01 ,2238.12,	0.00, 0.0192, "Anual", 2023);
+insert into isr2022  (lim_inf, lim_sup, cuota, porcentaje, periodo, año) values (8952.50, 75984.55,	171.88,	0.064, "Anual", 2023);
+insert into isr2022  (lim_inf, lim_sup, cuota, porcentaje, periodo, año) values (75984.56, 133536.07, 4461.94, 0.1088, "Anual", 2023);
+insert into isr2022  (lim_inf, lim_sup, cuota, porcentaje, periodo, año) values (133536.08,	155229.80, 10723.55, 0.16, "Anual", 2023);
+insert into isr2022  (lim_inf, lim_sup, cuota, porcentaje, periodo, año) values (155229.81,	185852.57, 14194.54, 0.1792, "Anual", 2023);
+insert into isr2022  (lim_inf, lim_sup, cuota, porcentaje, periodo, año) values (185852.58,	374837.88, 19682.13, 0.2136, "Anual", 2023);
+insert into isr2022  (lim_inf, lim_sup, cuota, porcentaje, periodo, año) values (374837.89,	590795.99, 60049.40, 0.2352, "Anual", 2023);
+insert into isr2022  (lim_inf, lim_sup, cuota, porcentaje, periodo, año) values (590796.00,	1127926.84, 110842.74, 0.3, "Anual", 2023);
+insert into isr2022  (lim_inf, lim_sup, cuota, porcentaje, periodo, año) values (1127926.85, 1503902.46, 271981.99,	0.32, "Anual", 2023);
+insert into isr2022  (lim_inf, lim_sup, cuota, porcentaje, periodo, año) values (1503902.47, 4511707.37, 392294.17,	0.34, "Anual", 2023);
+insert into isr2022  (lim_inf, lim_sup, cuota, porcentaje, periodo, año) values (4511707.38, 999999999,	1414947.85,	0.35, "Anual", 2023);
+
+
+insert into isr2022  (lim_inf, lim_sup, cuota, porcentaje, periodo, año) values (0.01, 746.04, 0.00, 0.0192, "Mensual", 2023);
+insert into isr2022  (lim_inf, lim_sup, cuota, porcentaje, periodo, año) values (746.05, 6332.05, 14.32, 0.064, "Mensual", 2023);
+insert into isr2022  (lim_inf, lim_sup, cuota, porcentaje, periodo, año) values (6332.06, 11128.01, 371.83,	0.1088, "Mensual", 2023);
+insert into isr2022  (lim_inf, lim_sup, cuota, porcentaje, periodo, año) values (11128.02, 12935.82, 893.63, 0.16, "Mensual", 2023);
+insert into isr2022  (lim_inf, lim_sup, cuota, porcentaje, periodo, año) values (12935.83, 15487.71, 1182.88, 0.1792, "Mensual", 2023);
+insert into isr2022  (lim_inf, lim_sup, cuota, porcentaje, periodo, año) values (15487.72, 31236.49, 1640.18, 0.2136, "Mensual", 2023);
+insert into isr2022  (lim_inf, lim_sup, cuota, porcentaje, periodo, año) values (31236.50, 49233.00, 5004.12, 0.2352, "Mensual", 2023);
+insert into isr2022  (lim_inf, lim_sup, cuota, porcentaje, periodo, año) values (49233.01, 93993.90, 9236.89, 0.3, "Mensual", 2023);
+insert into isr2022  (lim_inf, lim_sup, cuota, porcentaje, periodo, año) values (93993.91, 125325.20, 22665.17,	0.32, "Mensual", 2023);
+insert into isr2022  (lim_inf, lim_sup, cuota, porcentaje, periodo, año) values (125325.21,	375975.61, 32691.18, 0.34, "Mensual", 2023);
+insert into isr2022  (lim_inf, lim_sup, cuota, porcentaje, periodo, año) values (375975.62,	999999999, 117912.32, 0.35, "Mensual", 2023);
+
+
+insert into isr2022  (lim_inf, lim_sup, cuota, porcentaje, periodo, año) values (0.01, 368.10, 0.00, 0.0192, "Quincenal", 2023);
+insert into isr2022  (lim_inf, lim_sup, cuota, porcentaje, periodo, año) values (368.11, 3124.35, 7.05, 0.064, "Quincenal", 2023);
+insert into isr2022  (lim_inf, lim_sup, cuota, porcentaje, periodo, año) values (3124.36, 5490.75, 183.45, 0.1088, "Quincenal", 2023);
+insert into isr2022  (lim_inf, lim_sup, cuota, porcentaje, periodo, año) values (5490.76, 6382.80, 441.00, 0.16, "Quincenal", 2023);
+insert into isr2022  (lim_inf, lim_sup, cuota, porcentaje, periodo, año) values (6382.81, 7641.90, 583.65, 0.1792, "Quincenal", 2023);
+insert into isr2022  (lim_inf, lim_sup, cuota, porcentaje, periodo, año) values (7641.91, 15412.80, 809.25,	0.2136, "Quincenal", 2023);
+insert into isr2022  (lim_inf, lim_sup, cuota, porcentaje, periodo, año) values (15412.81, 24292.65, 2469.15, 0.2352, "Quincenal", 2023);
+insert into isr2022  (lim_inf, lim_sup, cuota, porcentaje, periodo, año) values (24292.66, 46378.50, 4557.75, 0.3, "Quincenal", 2023);
+insert into isr2022  (lim_inf, lim_sup, cuota, porcentaje, periodo, año) values (46378.51, 61838.10, 11183.40, 0.32, "Quincenal", 2023);
+insert into isr2022  (lim_inf, lim_sup, cuota, porcentaje, periodo, año) values (61838.11, 185514.30, 16130.55,	0.34, "Quincenal", 2023);
+insert into isr2022  (lim_inf, lim_sup, cuota, porcentaje, periodo, año) values (185514.31, 999999999, 58180.35, 0.35, "Quincenal", 2023);
+
+
+insert into isr2022  (lim_inf, lim_sup, cuota, porcentaje, periodo, año) values (0.01, 171.78, 0.00, 0.0192, "Semanal", 2023);
+insert into isr2022  (lim_inf, lim_sup, cuota, porcentaje, periodo, año) values (171.79, 1458.03, 3.29,	0.064, "Semanal", 2023);
+insert into isr2022  (lim_inf, lim_sup, cuota, porcentaje, periodo, año) values (1458.04, 2562.35, 85.61, 0.1088, "Semanal", 2023);
+insert into isr2022  (lim_inf, lim_sup, cuota, porcentaje, periodo, año) values (2562.36, 2978.64, 205.80, 0.16, "Semanal", 2023);
+insert into isr2022  (lim_inf, lim_sup, cuota, porcentaje, periodo, año) values (2978.65, 3566.22, 272.37, 0.1792, "Semanal", 2023);
+insert into isr2022  (lim_inf, lim_sup, cuota, porcentaje, periodo, año) values (3566.23, 7192.64, 377.65, 0.2136, "Semanal", 2023);
+insert into isr2022  (lim_inf, lim_sup, cuota, porcentaje, periodo, año) values (7192.65, 11336.57, 1152.27, 0.2352, "Semanal", 2023);
+insert into isr2022  (lim_inf, lim_sup, cuota, porcentaje, periodo, año) values (11336.58, 21643.30, 2126.95, 0.3, "Semanal", 2023);
+insert into isr2022  (lim_inf, lim_sup, cuota, porcentaje, periodo, año) values (21643.31, 28857.78, 5218.92, 0.32, "Semanal", 2023);
+insert into isr2022  (lim_inf, lim_sup, cuota, porcentaje, periodo, año) values (28857.79, 86573.34, 7527.59, 0.34, "Semanal", 2023);
+insert into isr2022  (lim_inf, lim_sup, cuota, porcentaje, periodo, año) values (86573.35, 999999999, 27150.83, 0.35, "Semanal", 2023);
+
+
+insert into isr2022  (lim_inf, lim_sup, cuota, porcentaje, periodo, año) values (0.01, 24.54, 0.00, 0.0192, "Diario", 2023);
+insert into isr2022  (lim_inf, lim_sup, cuota, porcentaje, periodo, año) values (24.54, 208.29, 0.47, 0.064, "Diario", 2023);
+insert into isr2022  (lim_inf, lim_sup, cuota, porcentaje, periodo, año) values (208.30, 366.05, 12.23, 0.1088, "Diario", 2023);
+insert into isr2022  (lim_inf, lim_sup, cuota, porcentaje, periodo, año) values (366.06, 425.52, 29.40, 0.16, "Diario", 2023);
+insert into isr2022  (lim_inf, lim_sup, cuota, porcentaje, periodo, año) values (425.53, 509.46, 38.91, 0.1792, "Diario", 2023);
+insert into isr2022  (lim_inf, lim_sup, cuota, porcentaje, periodo, año) values (509.47, 1027.52, 53.95, 0.2136, "Diario", 2023);
+insert into isr2022  (lim_inf, lim_sup, cuota, porcentaje, periodo, año) values (1027.53, 1619.51, 164.61, 0.2352, "Diario", 2023);
+insert into isr2022  (lim_inf, lim_sup, cuota, porcentaje, periodo, año) values (1619.52, 3091.90, 303.85, 0.3, "Diario", 2023);
+insert into isr2022  (lim_inf, lim_sup, cuota, porcentaje, periodo, año) values (3091.91, 4122.54, 745.56, 0.32, "Diario", 2023);
+insert into isr2022  (lim_inf, lim_sup, cuota, porcentaje, periodo, año) values (4122.55, 12367.62, 1075.37, 0.34, "Diario", 2023);
+insert into isr2022  (lim_inf, lim_sup, cuota, porcentaje, periodo, año) values (12367.63, 999999999, 3878.69, 0.35, "Diario", 2023);
+
+
+
+
+
+
+
+
+
+
 insert into isr2022  (lim_inf, lim_sup, cuota, porcentaje, periodo, año) values  (0.01, 7735.0, 0.0, 0.0192, "Anual", 2022);
 insert into isr2022  (lim_inf, lim_sup, cuota, porcentaje, periodo, año) values  (7735.01, 65651.07, 148.51, 0.064, "Anual", 2022);
 insert into isr2022  (lim_inf, lim_sup, cuota, porcentaje, periodo, año) values  (65651.08, 115375.9, 3855.14, 0.1088, "Anual", 2022);
@@ -61,10 +134,6 @@ insert into isr2022  (lim_inf, lim_sup, cuota, porcentaje, periodo, año) values
 insert into isr2022  (lim_inf, lim_sup, cuota, porcentaje, periodo, año) values  (2671.43, 3561.9, 644.17, 0.32, "Diario", 2022);
 insert into isr2022  (lim_inf, lim_sup, cuota, porcentaje, periodo, año) values  (3561.91, 10685.69, 929.12, 0.34, "Diario", 2022);
 insert into isr2022  (lim_inf, lim_sup, cuota, porcentaje, periodo, año) values  (10685.7, 999999999, 3351.21, 0.35, "Diario", 2022);
-
-
-
-
 
 
 
@@ -277,8 +346,6 @@ insert into isr2022  (lim_inf, lim_sup, cuota, porcentaje, periodo, año) values
 insert into isr2022  (lim_inf, lim_sup, cuota, porcentaje, periodo, año) values  (2397.63, 3196.82, 578.15, 0.32, "Diario", 2019);
 insert into isr2022  (lim_inf, lim_sup, cuota, porcentaje, periodo, año) values  (3196.83, 9590.46, 833.89, 0.34, "Diario", 2019);
 insert into isr2022  (lim_inf, lim_sup, cuota, porcentaje, periodo, año) values  (9590.47, 999999999, 3007.73, 0.35, "Diario", 2019); 
-
-
 
 
 
